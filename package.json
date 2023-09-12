@@ -62,7 +62,7 @@
   },
   "dependencies": {
     "codecov": "^3.7.2",
-    "jsondiffpatch": "^0.4.1"
+    "jsondiffpatch": "^0.5.0"
   },
   "jest": {
     "setupFilesAfterEnv": [
